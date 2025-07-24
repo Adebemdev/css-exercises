@@ -1,0 +1,15 @@
+.num-class{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#num-id-2 {
+    font-size: 36px;
+    color: blue;
+}
+#num-id-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
