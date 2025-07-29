@@ -33,9 +33,7 @@ body {
   justify-content: center;
 }
 
-.modal-text {
-  /* background-color: red; */
-}
+
 
 .modal-close-button {
   display: flex;
@@ -44,9 +42,6 @@ body {
   margin-bottom: 10px;
 }
 
-.modal-icon {
-  /* background-color: yellow; */
-}
 
 .icon {
   color: royalblue;
@@ -77,9 +72,7 @@ body {
 }
 
 
-.modal-info {
-  /* background-color: brown; */
-}
+
 
 .text {
   margin-bottom: 20px;
